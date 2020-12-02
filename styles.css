@@ -1,0 +1,39 @@
+body{
+    background-color: seashell;
+    text-align: center;
+    color: black;
+    font-family: "Comic Sans MS", cursive;
+}
+
+#myHeader{
+    color: black;
+    font-style: italic;
+}
+
+#castleYoga, #trainThroughGermany, #dayOneTefl, #lastDayTefl, #cobblestoneStreets, #castleViews, #giantBaby, #charlesBridge, #parks, #monastary, #church, #beerGarden, #hiking, #ckAtNight, #ckWindow, #karlstejn, #fairyTaleForest, #stJohnRock, #bohemianSwiss, #overKarlovy, #healingWater{
+    border-radius: 8px;
+}
+
+p.gettingThere{
+    border: 1px solid purple; 
+    padding: 35px 70px 35px;
+    text-align: justify;
+}
+
+p.tefl{
+    border: 1px solid purple; 
+    padding: 35px 70px 35px;
+    text-align: justify;
+}
+
+p.czechWonders{
+    border: 1px solid purple; 
+    padding: 35px 70px 35px;
+    text-align: justify;
+}
+
+p.beyondPrague{
+    border: 1px solid purple; 
+    padding: 35px 70px 35px;
+    text-align: justify;
+}
