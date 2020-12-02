@@ -1,6 +1,6 @@
 body{
     background-color: seashell;
-    text-align: center;
+    text-align: justify;
     color: black;
     font-family: "Comic Sans MS", cursive;
 }
@@ -10,9 +10,22 @@ body{
     font-style: italic;
 }
 
+figcaption{
+    text-align: center;
+}
+
+.imageOne, .imageTwo, .imageThree, .imageFour, .imageFive, .imageSix, .imageSeven, .imageEight, .imageNine, .imageTen, .imageEleven, .imageTwelve, .imageThirteen{
+    background: darkcyan;
+    width: 800px;
+    padding: 3rem;
+    border-radius: 8px;
+}
+
 #castleYoga, #trainThroughGermany, #dayOneTefl, #lastDayTefl, #cobblestoneStreets, #castleViews, #giantBaby, #charlesBridge, #parks, #monastary, #church, #beerGarden, #hiking, #ckAtNight, #ckWindow, #karlstejn, #fairyTaleForest, #stJohnRock, #bohemianSwiss, #overKarlovy, #healingWater{
     border-radius: 8px;
-    object-fit: contain;
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
 }
 
 p.gettingThere{
