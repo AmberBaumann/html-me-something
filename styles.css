@@ -12,6 +12,7 @@ body{
 
 #castleYoga, #trainThroughGermany, #dayOneTefl, #lastDayTefl, #cobblestoneStreets, #castleViews, #giantBaby, #charlesBridge, #parks, #monastary, #church, #beerGarden, #hiking, #ckAtNight, #ckWindow, #karlstejn, #fairyTaleForest, #stJohnRock, #bohemianSwiss, #overKarlovy, #healingWater{
     border-radius: 8px;
+    object-fit: contain;
 }
 
 p.gettingThere{
