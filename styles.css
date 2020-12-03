@@ -14,40 +14,29 @@ figcaption{
     text-align: center;
 }
 
-.imageOne, .imageTwo, .imageThree, .imageFour, .imageFive, .imageSix, .imageSeven, .imageEight, .imageNine, .imageTen, .imageEleven, .imageTwelve, .imageThirteen{
+.imageOne, .imageTwo, .imageThree, .imageFour, .imageFive, .imageSix, .imageSeven, .imageEight, .imageNine, .imageTen, .imageEleven, .imageTwelve, .imageThirteen, .img14, .img15, .img16, .img17, .img18, .img19, .img20, .img21, .img22{
     background: darkcyan;
     width: 800px;
     padding: 3rem;
     border-radius: 8px;
 }
 
-#castleYoga, #trainThroughGermany, #dayOneTefl, #lastDayTefl, #cobblestoneStreets, #castleViews, #giantBaby, #charlesBridge, #parks, #monastary, #church, #beerGarden, #hiking, #ckAtNight, #ckWindow, #karlstejn, #fairyTaleForest, #stJohnRock, #bohemianSwiss, #overKarlovy, #healingWater{
+#castleYoga, #trainThroughGermany, #dayOneTefl, #lastDayTefl, #cobblestoneStreets, #castleViews, #giantBaby, #charlesBridge, #parks, #monastary, #church, #beerGarden, #hiking, #ckAtNight, #ckWindow, #karlstejn, #fairyTaleForest, #stJohnRock, #bohemianSwiss, #overKarlovy, #healingWater, #bathroomStall{
     border-radius: 8px;
     width: 100%;
     height: 600px;
     object-fit: cover;
 }
 
-p.gettingThere{
-    border: 1px solid purple; 
+p.gettingThere, p.tefl, .czechWonders, p.beyondPrague, p.travelMishaps{
+    border: 3px ridge purple; 
     padding: 35px 70px 35px;
     text-align: justify;
 }
 
-p.tefl{
-    border: 1px solid purple; 
-    padding: 35px 70px 35px;
-    text-align: justify;
-}
-
-p.czechWonders{
-    border: 1px solid purple; 
-    padding: 35px 70px 35px;
-    text-align: justify;
-}
-
-p.beyondPrague{
-    border: 1px solid purple; 
-    padding: 35px 70px 35px;
-    text-align: justify;
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: darkslategray;
+    color: white;
 }
