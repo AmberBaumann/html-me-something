@@ -1,13 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
 body{
-    background-color: seashell;
+    background-color:#e6f9ff;
     text-align: justify;
     color: black;
-    font-family: "Fantasy", Papyrus ;
+    font-family: "Crimson Text", serif ;
 }
 
 #myHeader{
     color: black;
     font-style: italic;
+    text-align: center;
 }
 
 figcaption{
@@ -15,10 +18,11 @@ figcaption{
 }
 
 .imageOne, .imageTwo, .imageThree, .imageFour, .imageFive, .imageSix, .imageSeven, .imageEight, .imageNine, .imageTen, .imageEleven, .imageTwelve, .imageThirteen, .img14, .img15, .img16, .img17, .img18, .img19, .img20, .img21, .img22{
-    background: darkcyan;
+    background:#0086b3;
     width: 800px;
     padding: 3rem;
     border-radius: 8px;
+    margin: auto;
 }
 
 #castleYoga, #trainThroughGermany, #dayOneTefl, #lastDayTefl, #cobblestoneStreets, #castleViews, #giantBaby, #charlesBridge, #parks, #monastary, #church, #beerGarden, #hiking, #ckAtNight, #ckWindow, #karlstejn, #fairyTaleForest, #stJohnRock, #bohemianSwiss, #overKarlovy, #healingWater, #bathroomStall{
@@ -29,9 +33,10 @@ figcaption{
 }
 
 p.gettingThere, p.tefl, .czechWonders, p.beyondPrague, p.travelMishaps{
-    border: 3px ridge purple; 
+    border: 3px ridge #004d66; 
     padding: 35px 70px 35px;
     text-align: justify;
+    font-size:large;
 }
 
 footer{
@@ -39,4 +44,8 @@ footer{
     padding: 3px;
     background-color: darkslategray;
     color: white;
+}
+
+h2, h3{
+    text-align: center;
 }
